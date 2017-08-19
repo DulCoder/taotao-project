@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-parent/common-parent.iml" filepath="$PROJECT_DIR$/common-parent/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-manager/manager-mapper/manager-mapper.iml" filepath="$PROJECT_DIR$/taotao-manager/manager-mapper/manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-manager/manager-pojo/manager-pojo.iml" filepath="$PROJECT_DIR$/taotao-manager/manager-pojo/manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-manager/manager-service/manager-service.iml" filepath="$PROJECT_DIR$/taotao-manager/manager-service/manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-manager/manager-web/manager-web.iml" filepath="$PROJECT_DIR$/taotao-manager/manager-web/manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao-manager/taotao-manager.iml" filepath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" />
+    </modules>
+  </component>
+</project>
