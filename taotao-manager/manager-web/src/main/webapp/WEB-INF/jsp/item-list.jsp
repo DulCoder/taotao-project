@@ -22,6 +22,13 @@
 <script>
 
     function getSelectionsIds(){
+//        $.ajax({
+//            url:"/manager-web/item/list",
+//            data:{"page":1,"rows":30},
+//            success:function (data) {
+//
+//            }
+//        });
     	var itemList = $("#itemList");
     	var sels = itemList.datagrid("getSelections");
     	var ids = [];

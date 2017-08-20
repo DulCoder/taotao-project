@@ -1,2 +1,4 @@
 com\taotao\service\impl\ItemServiceImpl.class
+com\taotao\service\ItemCatService.class
 com\taotao\service\ItemService.class
+com\taotao\service\impl\ItemCatServiceImpl.class
